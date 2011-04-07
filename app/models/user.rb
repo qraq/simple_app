@@ -1,4 +1,5 @@
 require 'digest'
+require 'gravatar_image_tag'
 
 class User < ActiveRecord::Base
 
